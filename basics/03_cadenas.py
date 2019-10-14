@@ -26,3 +26,6 @@ num_tortugas = 2
 # de la función str()
 print (nombre + " tiene " + str(num_tortugas) + " tortugas \n")
 
+nombre1 = 'Federico'
+nombre2 = 'Guerra'
+print (nombre1 + 'jose' + nombre2 )
